@@ -10,13 +10,44 @@ Backend-разработчик с опытом **3+ лет**, создаю **р�
 
 ## ⚡ Навыки
 
-[![My Skills](https://skillicons.dev/icons?i=go,nodejs,postgresql,redis,docker,kafka,kubernetes)](https://skillicons.dev)
+### 🔙 Backend
+[![My Skills](https://skillicons.dev/icons?i=go,nodejs,nestjs,expressjs,grpc,graphql,fastapi)](https://skillicons.dev)
 
-- 🟢 **Backend:** Go, Node.js (NestJS, ExpressJS), REST / GraphQL / gRPC  
-- ⚛️ **Frontend:** React, Next.js, SCSS  
-- 📦 **DevOps:** Docker, Kubernetes, CI/CD  
-- 🐘 **Databases:** PostgreSQL, MongoDB, Redis  
-- 📐 **Архитектура:** DDD, микросервисы, SOLID, KISS, DRY, FSD  
+- Go / Node.js (NestJS, ExpressJS)  
+- REST / GraphQL / gRPC  
+- Unit Testing / CI/CD  
+
+---
+
+### 🎨 Frontend
+[![My Skills](https://skillicons.dev/icons?i=react,next,ts,js,scss,tailwind)](https://skillicons.dev)
+
+- React / Next.js  
+- TypeScript / JavaScript  
+- SCSS / TailwindCSS  
+
+---
+
+### 🗄️ Databases
+[![My Skills](https://skillicons.dev/icons?i=postgres,mongodb,redis)](https://skillicons.dev)
+
+- PostgreSQL / MongoDB / Redis / MinIO  
+
+---
+
+### ⚙️ DevOps & Tools
+[![My Skills](https://skillicons.dev/icons?i=docker,kubernetes,linux,git,kafka,prometheus,grafana)](https://skillicons.dev)
+
+- Docker / Kubernetes  
+- Kafka / очереди сообщений  
+- Linux / Git / CI/CD  
+- Monitoring: Prometheus, Grafana  
+
+---
+
+### 📐 Архитектура и принципы
+- DDD, микросервисы, распределённые системы  
+- SOLID, KISS, DRY, YAGNI, FSD  
 
 ---
 
@@ -24,6 +55,6 @@ Backend-разработчик с опытом **3+ лет**, создаю **р�
 ---
 
 ## 📫 Контакты
-📫 Как связаться: [Telegram](https://t.me/User0Null0)  
-- 📨 Email: soon.pluxury@mail.ru
+[Telegram](https://t.me/User0Null0)  
+Email: soon.pluxury@mail.ru
 
