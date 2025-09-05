@@ -11,7 +11,7 @@ Backend-разработчик с опытом **3+ лет**, создаю **р�
 ## ⚡ Навыки
 
 ### 🔙 Backend
-[![My Skills](https://skillicons.dev/icons?i=go,nodejs,nestjs,expressjs,grpc,graphql,fastapi)](https://skillicons.dev)
+[![My Skills](https://skillicons.dev/icons?i=go,nodejs,nestjs,expressjs,graphql)](https://skillicons.dev)
 
 - Go / Node.js (NestJS, ExpressJS)  
 - REST / GraphQL / gRPC  
@@ -20,11 +20,11 @@ Backend-разработчик с опытом **3+ лет**, создаю **р�
 ---
 
 ### 🎨 Frontend
-[![My Skills](https://skillicons.dev/icons?i=react,next,ts,js,scss,tailwind)](https://skillicons.dev)
+[![My Skills](https://skillicons.dev/icons?i=react,next,ts,js,scss)](https://skillicons.dev)
 
 - React / Next.js  
 - TypeScript / JavaScript  
-- SCSS / TailwindCSS  
+- SCSS   
 
 ---
 
