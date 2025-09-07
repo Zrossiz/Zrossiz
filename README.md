@@ -1,10 +1,10 @@
-# Shtepa Егор — Backend / Full-stack Engineer & Software Architect 🚀
+# Shtepa Egor — Backend / Full-stack Engineer & Software Architect 🚀
 
 ---
 
 ## 👨‍💻 О себе
-Backend-разработчик с опытом **3+ лет**, создаю **распределённые системы** и **full-stack проекты** с нуля.  
-Люблю **DDD, микросервисы, высоконагруженные решения** и наставничество.
+Backend-developer with **3+ years of experience**, building **distributed systems** and **full-stack projects** from scratch.  
+Passionate about **DDD, microservices, high-load solutions**, and mentoring.
 
 ---
 
