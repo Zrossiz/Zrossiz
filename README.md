@@ -2,13 +2,13 @@
 
 ---
 
-## 👨‍💻 О себе
+## 👨‍💻 About me
 Backend-developer with **3+ years of experience**, building **distributed systems** and **full-stack projects** from scratch.  
 Passionate about **DDD, microservices, high-load solutions**, and mentoring.
 
 ---
 
-## ⚡ Навыки
+## ⚡ Skills
 
 ### 🔙 Backend
 [![My Skills](https://skillicons.dev/icons?i=go,nodejs,nestjs,expressjs,graphql)](https://skillicons.dev)
@@ -39,14 +39,14 @@ Passionate about **DDD, microservices, high-load solutions**, and mentoring.
 [![My Skills](https://skillicons.dev/icons?i=docker,kubernetes,linux,git,kafka,prometheus,grafana)](https://skillicons.dev)
 
 - Docker / Kubernetes  
-- Kafka / очереди сообщений  
+- Kafka / message queues
 - Linux / Git / CI/CD  
 - Monitoring: Prometheus, Grafana  
 
 ---
 
-### 📐 Архитектура и принципы
-- DDD, микросервисы, распределённые системы  
+### 📐 Architecture and principles
+- DDD, microservices, distributed systems 
 - SOLID, KISS, DRY, YAGNI, FSD  
 
 ---
@@ -54,7 +54,7 @@ Passionate about **DDD, microservices, high-load solutions**, and mentoring.
 
 ---
 
-## 📫 Контакты
+## 📫 Contacts
 [Telegram](https://t.me/User0Null0)  
 Email: soon.pluxury@mail.ru
 
