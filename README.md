@@ -1,4 +1,4 @@
-# Shtepa Egor — Backend / Full-stack Engineer & Software Architect 🚀
+# Egor — Backend / Full-stack Engineer & Software Architect 🚀
 
 ---
 
