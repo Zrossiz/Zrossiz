@@ -3,7 +3,7 @@
 ---
 
 ## 👨‍💻 About me
-Backend-developer with **3+ years of experience**, building **distributed systems** and **full-stack projects** from scratch.  
+Backend-developer with **4+ years of experience**, building **distributed systems** and **full-stack projects** from scratch.  
 Passionate about **DDD, microservices, high-load solutions**, and mentoring.
 
 ---
